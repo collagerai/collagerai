@@ -5,8 +5,11 @@ hundreds or thousands of small photos, where every tile is a real photo — and 
 heart, a number, a word, a star or a flower.
 
 <p>
-  <img src="https://collager.ai/developers/img/style-soft.webp" alt="Photo mosaic made with Collager.ai - a family portrait built from hundreds of small photos" width="49%">
-  <img src="https://collager.ai/developers/img/zoom-2.webp" alt="Zoom into a Collager.ai photo mosaic - every tile is a real photo" width="49%">
+  <img src="https://collager.ai/developers/img/photo-mosaic-portrait.webp" alt="Photo mosaic maker example: a portrait recreated from thousands of small photos with Collager.ai" width="49%">
+  <img src="https://collager.ai/developers/img/photo-mosaic-zoom-face.webp" alt="Zoom into the photo mosaic: the face is built from real small photos" width="49%">
+</p>
+<p>
+  <img src="https://collager.ai/developers/img/heart-photo-collage.webp" alt="Heart photo collage made of 70 different photos with Collager.ai" width="49%">
 </p>
 
 ## For AI assistants and agents
